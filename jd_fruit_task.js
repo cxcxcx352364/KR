@@ -253,7 +253,7 @@ async function doDailyTask() {
     //   turntableFarm()//天天抽奖得好礼
     // ])
     //await getAwardInviteFriend();
-    await getTreasureBoxAwardTask(); //去首页逛逛“领京豆”
+    //await getTreasureBoxAwardTask(); //去首页逛逛“领京豆”
 		await clockInIn(); //打卡领水
     await executeWaterRains(); //水滴雨
     await getExtraAward(); //领取额外水滴奖励
